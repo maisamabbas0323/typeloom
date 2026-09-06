@@ -160,4 +160,4 @@ public/
 
 ## License
 
-No license has been specified yet. Add a license file before distributing Typeloom publicly.
+MIT
