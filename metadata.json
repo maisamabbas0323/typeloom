@@ -1,0 +1,6 @@
+{
+  "name": "TYPELOOM",
+  "description": "A quiet, tactile, offline-first typing practice application crafted for rhythm and flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

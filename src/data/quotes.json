@@ -1,0 +1,116 @@
+[
+  {
+    "id": "q1",
+    "length": "short",
+    "source": "Marcus Aurelius",
+    "text": "The soul becomes dyed with the color of its thoughts."
+  },
+  {
+    "id": "q2",
+    "length": "short",
+    "source": "Leonardo da Vinci",
+    "text": "Simplicity is the ultimate sophistication."
+  },
+  {
+    "id": "q3",
+    "length": "short",
+    "source": "Lao Tzu",
+    "text": "Silence is a source of great strength."
+  },
+  {
+    "id": "q4",
+    "length": "short",
+    "source": "Henry David Thoreau",
+    "text": "It is not enough to be busy. So are the ants. The question is: What are we busy about?"
+  },
+  {
+    "id": "q5",
+    "length": "short",
+    "source": "Seneca",
+    "text": "It is not that we have a short time to live, but that we waste a lot of it."
+  },
+  {
+    "id": "q6",
+    "length": "short",
+    "source": "Matsuo Basho",
+    "text": "Do not seek to follow in the footsteps of the wise; seek what they sought."
+  },
+  {
+    "id": "q7",
+    "length": "short",
+    "source": "Ralph Waldo Emerson",
+    "text": "Adopt the pace of nature: her secret is patience."
+  },
+  {
+    "id": "q8",
+    "length": "short",
+    "source": "Epictetus",
+    "text": "First say to yourself what you would be; and then do what you have to do."
+  },
+  {
+    "id": "q9",
+    "length": "medium",
+    "source": "John Ruskin",
+    "text": "Quality is never an accident. It is always the result of intelligent effort. There must be the will to produce a superior thing."
+  },
+  {
+    "id": "q10",
+    "length": "medium",
+    "source": "Walt Whitman",
+    "text": "Keep your face always toward the sunshine, and shadows will fall behind you. We convince by our presence."
+  },
+  {
+    "id": "q11",
+    "length": "medium",
+    "source": "William Morris",
+    "text": "Have nothing in your houses that you do not know to be useful or believe to be beautiful. Simplicity of life produces refinement."
+  },
+  {
+    "id": "q12",
+    "length": "medium",
+    "source": "Henry David Thoreau",
+    "text": "A broad margin of leisure is as beautiful in a man's life as in a book. Haste makes waste, no less in easy days than in hurried ones."
+  },
+  {
+    "id": "q13",
+    "length": "medium",
+    "source": "Virginia Woolf",
+    "text": "Arrange whatever pieces come your way. The past is beautiful because one never realises an emotion at the time. It expands later."
+  },
+  {
+    "id": "q14",
+    "length": "medium",
+    "source": "Antoine de Saint-Exupéry",
+    "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+  },
+  {
+    "id": "q15",
+    "length": "medium",
+    "source": "Kahlil Gibran",
+    "text": "Work is love made visible. And if you cannot work with love but only with distaste, it is better that you should leave your work."
+  },
+  {
+    "id": "q16",
+    "length": "long",
+    "source": "Henry David Thoreau, Walden",
+    "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived."
+  },
+  {
+    "id": "q17",
+    "length": "long",
+    "source": "Marcus Aurelius, Meditations",
+    "text": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love. Dwell on the beauty of life. Watch the stars, and see yourself running with them."
+  },
+  {
+    "id": "q18",
+    "length": "long",
+    "source": "Robert Frost",
+    "text": "The woods are lovely, dark and deep, but I have promises to keep, and miles to go before I sleep, and miles to go before I sleep. Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."
+  },
+  {
+    "id": "q19",
+    "length": "long",
+    "source": "Ralph Waldo Emerson, Self-Reliance",
+    "text": "Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age."
+  }
+]

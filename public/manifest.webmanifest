@@ -1,0 +1,16 @@
+{
+  "name": "Typeloom",
+  "short_name": "Typeloom",
+  "description": "A quiet, tactile, offline-first typing practice application crafted for rhythm and flow.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#151517",
+  "theme_color": "#151517",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
